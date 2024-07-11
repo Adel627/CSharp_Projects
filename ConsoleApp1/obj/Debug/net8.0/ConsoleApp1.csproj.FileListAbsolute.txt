@@ -1,0 +1,29 @@
+D:\c# Projects\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\c# Projects\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\c# Projects\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\c# Projects\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\c# Projects\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\c# Projects\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
