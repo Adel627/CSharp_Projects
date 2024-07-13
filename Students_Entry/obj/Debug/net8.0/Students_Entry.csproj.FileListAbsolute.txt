@@ -1,0 +1,15 @@
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\bin\Debug\net8.0\Students_Entry.exe
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\bin\Debug\net8.0\Students_Entry.deps.json
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\bin\Debug\net8.0\Students_Entry.runtimeconfig.json
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\bin\Debug\net8.0\Students_Entry.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\bin\Debug\net8.0\Students_Entry.pdb
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.AssemblyInfoInputs.cache
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.AssemblyInfo.cs
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.csproj.CoreCompileInputs.cache
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.sourcelink.json
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\refint\Students_Entry.dll
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.pdb
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\Students_Entry.genruntimeconfig.cache
+C:\Users\Nvidia\Desktop\my_github\CSharp_Projects\Students_Entry\obj\Debug\net8.0\ref\Students_Entry.dll
